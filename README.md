@@ -1,6 +1,6 @@
 # selbal
 
-selbal is now hosted in  malucalle/selbal
+selbal is now hosted at malucalle/selbal
 
  `selbal` is an R package for selection of balances in microbiome compositional data. As described in Rivera-Pinto et al. 2018 _Balances:  a new perspective for microbiome analysis_ https://msystems.asm.org/content/3/4/e00053-18, `selbal` implements a forward-selection method for the identification of two groups of taxa whose relative abundance, or balance, is associated with the response variable of interest.
 
