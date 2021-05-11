@@ -9,8 +9,6 @@ selbal is now hosted in  malucalle/selbal
 
 ### Installation
 
-To get a full access to the functions implemented in `selbal` we only need to run 
-the following instructions:
 
 ```
 # Installing the files in the repository
